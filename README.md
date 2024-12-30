@@ -1,5 +1,5 @@
 # Static-web-pages
-
+这是一个静态网页，是我大二web课程结课提交的结课项目
 ## 1、时间的修改
 ### var endTime = new Date("July 31, 2024 24:00:00 PDT");
 ### 这行代码在/assets/js/custom.js
